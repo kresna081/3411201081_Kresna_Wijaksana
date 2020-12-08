@@ -1,19 +1,45 @@
-Keywords:
-DENGAN, DAN, DAPAT, PADA, SATU, ALGORITMA GENETIKA, WEB, dalam algoritma, yang dapat, dalam satu
+Epidemi COVID-19
+Coronavirus adalah virus RNA besar beruntai tunggal positif yang menginfeksi manusia, tetapi juga berbagai jenis hewan. Coronavirus pertama kali dideskripsikan pada tahun 1966 oleh Tyrell dan Bynoe, yang membudidayakan virus dari pasien dengan flu biasa.
+(Tyrrell, 1966)
 
-Digest:
-...ABSTRAK Kecerdasan dari komputer yang dapat meniru system kerja manusia biasa disebut dengan istilah kecerdasan buatan (artificial intelegence) yang dapat memecahkan masalah (problem solving) yang rumit dan kadang manusia sendiri tidak dapat menyelesaikannya, seperti dalam proses penjadwalan mata pelajaran....
-...Berdasarkan permasalahan tersebut peneliti melakukan penelitian tentang penjadwalan mata pelajaran sekolah dengan metode Algoritma Genetika dan mengambil studi kasus pada salah satu sekolah menengah kejuruan (SMK) swasta di Denpasar yaitu SMK Dwijendra Denpasar....
-...Berdasarkan hasil perancangan dan pembahasan yang telah dilakukan, penjadwalan mengajar dengan algoritma Genetika dengan studi kasus di SMK Dwijendra dapat dilakukan dengan menggunakan data mata pelajaran dan guru dari SMK tersebut dan menghasilkan jadwal mengajar bagi guru di sekolah tersebut sehingga tidak terjadinya bentrokan jadwal....
-...PENDAHULUAN Perkembangan teknologi informasi yang semakin cepat saat ini dan berkembang diharapkan dapat memberikan manfaat dalam segala aspek kehidupan termasuk dalam membantu kegiatan manusia....
-...Selain menghindari terjadinya "tabrakan" jadwal ada parameter lain yang juga menjadi permasalahan diantaranya jumlah jam mengajar guru dalam satu hari, tidak boleh adanya pengulangan mata pelajaran yang sama dalam satu hari....
-...Berdasarkan permasalahan tersebut peneliti melakukan penelitian tentang penjadwalan mata pelajaran sekolah dengan metode Algoritma Genetika dan mengambil studi kasus pada pada salah satu sekolah menengah kejuruan (SMK) swasta di Denpasar yaitu SMK Dwijendra Denpasar....
-...Algoritma Genetika merupakan salah satu jalan untuk memecahkan masalah penjadwalan dengan solusi yang cukup baik....
-...TINJAUAN PUSTAKA Algoritma Genetika Algoritma Genetika sebagai cabang dari Algoritma Evolusi yang merupakan metode adaptive yang biasa digunakan untuk memecahkan pencarian nilai dalam sebuah masalah optimasi....
-...Konsep yang ada dalam kaidah genetika diterapkan dalam algoritma komputasi yang dapat menyelesaikan masalah dengan constrain tinggi....
-...Mengambil konsep genetika biologi, beberapa istilah yang ada dalam Algoritma Genetika juga menggunakan konsep yang sama seperti : a. Populasi, merupakan sekumpulan individu yang akan diproses bersama dalam satu siklus proses evolusi. b. Genotype (Gen), sebuah nilai yang menyatakan satuan dasar yang membentuk suatu arti tertentu dalam satu kesatuan gen yang dinamakan kromosom....
-...Dalam algoritma Genetika gen biasanya berupa nilai biner, float, integer maupun karakter. c. Kromosom, gabungan gen-gen yang membentuk nilai tertentu. d. Individu, menyatakan satu nilai atau keadaan yang menyatakan salah satu solusi yang mungkin dari permasalahan yang diangkat. e. Generasi adalah jumlah tingkatan peranakan sebuah kelompok populasi yang akan dikembangbiakkan menjadi populasi mutan, mengalami crossover dan mutasi beberapa kali sehingga menghasilkan generasi terbaik atau satu iterasi dalam algoritma genetika....
-...Operator pindah silang memiliki peran yang penting dalam algoritma Genetika karena di dalamnya terdapat proses persilangan gen dengan gen yang lainnya yang akan menghasilkan individu baru....
-...Pada awalnya aplikasi web dibangun hanya dengan menggunakan bahasa yang disebut HTML (HyperText Markup Languange) dan protokol yang digunakan dinamakan HTTP (HyperText Transfer Protocol)....
-...Aplikasi web sendiri dapat dibagi menjadi web statis dan web dinamis....
+Perkiraan wabah SARS-CoV pada tahun 2003 melaporkan R0 dari 3
+(Chris T. Bauch, 2005)
+Analisis berbasis data terbaru dari fase awal wabah memperkirakan rata-rata R0 berkisar dari 2,2 hingga 3,58
+(Shi Zhao, 2020)
+dan mungkin menjadi pilihan untuk infeksi COVID-19. Kemungkinan lebih lanjut termasuk leronlimab, antibodi monoklonal yang dimanusiakan (antagonis CCR5), dan galidesivir, penghambat RNA polimerase nukleosida, keduanya telah menunjukkan manfaat kelangsungan hidup pada beberapa infeksi virus yang mematikan dan sedang dipertimbangkan sebagai kandidat pengobatan potensial.
+(Duddu, 2020)
+Berdasarkan morfologi mereka sebagai virion bola dengan cangkang inti dan proyeksi permukaan menyerupai korona matahari, mereka disebut coronavirus (bahasa Latin: korona = mahkota). Empat subfamili, yaitu alpha‐, beta‐, gamma‐ and delta ‐ coronaviruses ada. Sementara virus korona alfa dan beta ternyata berasal dari mamalia, khususnya dari kelelawar, virus gamma dan delta berasal dari babi dan burung. Ukuran genom bervariasi antara 26 kb dan 32 kb. Di antara tujuh subtipe coronavirus yang dapat menginfeksi manusia, beta-coronavirus dapat menyebabkan penyakit dan kematian yang parah, sedangkan alpha-coronavirus menyebabkan infeksi tanpa gejala atau gejala ringan. SARS ‐ CoV ‐ 2 termasuk dalam garis keturunan B dari beta ‐ coronaviruses dan terkait erat dengan virus SARS ‐ CoV
+(Trevor Bedford, 2020)
+Pengamatan sejauh ini menunjukkan masa inkubasi rata-rata lima hari
+(Qun Li, 2020)
+Empat gen struktural utama menyandikan protein nukleokapsid (N), protein lonjakan (S), protein membran kecil (SM) dan membran glikoprotein (M) dengan membran tambahan glikoprotein (HE) yang terjadi di HCoV-OC43 dan HKU1 beta-coronaviruses
+(ROTTIER, 1995)
+
+dan masa inkubasi rata-rata 3 hari (kisaran: 0-24 hari)
+(Wei-jie Guan, 2020)
+Pada 13 Februari 2020, tingkat kematian kasus infeksi COVID-19 telah mencapai sekitar 2,2% (1370/60363; 13. Februari 2020, 06:53 PM CET); 9,6% (774/8096) dalam epidemi SARS-CoV
+(Wang, 2020)
+Kombinasi obat antiretroviral lopinavir dan ritonavir secara signifikan meningkatkan kondisi klinis pasien SARS-CoV.
+(C M Chu2, 2004)
+
+Daftar Pustaka
+
+
+C M Chu2, V. C. (2004). The clinical response of patients with severe acute respiratory syndrome (SARS) to a combination of lopinavir/ritonavir and ribavirin was examined after establishing the in vitro antiviral susceptibility of the SARS associated coronavirus to a panel of an. Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings.
+Chris T. Bauch, J. O.-S. (2005). The emergence and rapid global spread of the severe acute respiratory syndrome (SARS) coronavirus in 2002-2003 prompted efforts by modelers to characterize SARS epidemiology and inform control policies. We overview and discuss models for emerging infectio. Dynamically Modeling SARS and Other Newly Emerging Respiratory Illnesses: Past, Present, and Future, 791-801.
+Duddu, P. (2020, April 16). Coronavirus treatment: Vaccines/drugs in the pipeline for COVID-19. Retrieved from ClinicalTrials: https://www.clinicaltrialsarena.com/analysis/coronavirus-mers-cov-drugs/
+Qun Li, M. X. (2020). The initial cases of novel coronavirus (2019-nCoV)–infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, in December 2019 and January 2020. We analyzed data on the first 425 confirmed cases in Wuhan to determine the epidemiologic characteris. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia.
+ROTTIER, P. J. (1995). Coronaviruses have a simple protein composition. While there is so me variation among different members, a basic set of four protein species universally. The Coronavirus Membrane, 115-134.
+Shi Zhao, Q. L. (2020). An ongoing outbreak of a novel coronavirus (2019-nCoV) pneumonia hit a major city in China, Wuhan, December 2019 and subsequently reached other provinces/regions of China and other countries. We present estimates of the basic reproduction number, R0, of 2. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak.
+Thirumalaisamy P. Velavan, C. G. (2020). Coronaviruses are enveloped, positive single‐stranded large RNA viruses that infect humans, but also a wide range of animals. Coronaviruses were first described in 1966 by Tyrell and Bynoe, who cultivated the viruses from patients with common colds 2. Bas. The COVID‐19 epidemic.
+Thirumalaisamy P. Velavan, C. G. (2020). The current outbreak of the novel coronavirus SARS‐CoV‐2 (coronavirus disease 2019; previously 2019‐nCoV), epi‐centred in Hubei Province of the People’s Republic of China, has spread to many other countries. On 30. January 2020, the WHO Emergency Committe. The COVID‐19 epidemic.
+Trevor Bedford, E. H. (2020, June 4). Phylogeny of SARS-like betacoronaviruses including novel coronavirus SARS-CoV-2. Retrieved from Nextstrain: https://nextstrain.org/groups/blab/sars-like-cov
+Tyrrell, D. A. (1966). An improved organ-culture technique has made it possible to isolate more viruses from colds than hitherto [this Bulletin, 1965, v. 40, 1446]. Until recently, only about 30% of colds yielded a cultivable virus. In this series 25 of 33 (75%) specimens were . Cultivation of Viruses from a High Proportion of Patients with Colds., 76-77.
+Wang, M. H. (2020). An ongoing outbreak of a novel coronavirus (2019-nCoV) pneumonia hit a major city in China, Wuhan, December 2019 and subsequently reached other provinces/regions of China and other countries. We present estimates of the basic reproduction number, R0, of 2. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak.
+Wei-jie Guan, Z.-y. N.-h.-q.-x.-l.-j.-Y.-c.-l.-y.-y. (2020). Since December 2019, acute respiratory disease (ARD) due to 2019 novel coronavirus (2019-nCoV) emerged in Wuhan city and rapidly spread throughout China. We sought to delineate the clinical characteristics of these cases. Clinical characteristics of 2019 novel coronavirus infection in China.
+
+
+
+
+
 
